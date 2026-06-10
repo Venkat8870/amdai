@@ -1,1 +1,0 @@
-C:\Users\VENKATAVETAPALEM\Downloads\TC_ITK\Teamcenter-ITK-codes\1_Batch_Utilities_ITK_code\4_Create_Folder_and_save_in_Homefolder.cpp

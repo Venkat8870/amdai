@@ -1,1 +1,0 @@
-C:\Users\VENKATAVETAPALEM\Downloads\TC_ITK\Teamcenter-ITK-codes\1_Batch_Utilities_ITK_code\8_generate_report_of_properties_of_IR_&_create_HelpFile.cpp

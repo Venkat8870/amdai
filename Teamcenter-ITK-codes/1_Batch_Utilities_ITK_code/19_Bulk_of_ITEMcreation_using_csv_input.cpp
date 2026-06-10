@@ -1,1 +1,0 @@
-C:\Users\VENKATAVETAPALEM\Downloads\TC_ITK\Teamcenter-ITK-codes\1_Batch_Utilities_ITK_code\19_Bulk_of_ITEMcreation_using_csv_input.cpp

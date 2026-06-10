@@ -1,1 +1,0 @@
-C:\Users\VENKATAVETAPALEM\Downloads\TC_ITK\Teamcenter-ITK-codes\1_Batch_Utilities_ITK_code\7_Generate_Report_of_SecObjects_attached_to_IR.cpp
